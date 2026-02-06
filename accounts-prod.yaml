@@ -4,7 +4,7 @@ build:
 contact:
   name: "Easy Bank Account Support"
   email: "support@easybank.com"
-  address: "321, Production street, ABC 543210"
+  address: "321, Prod street, ABC 543210"
   support:
     - "777 323232"
     - "888 343434"
